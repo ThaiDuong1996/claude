@@ -1,0 +1,13 @@
+# Bộ não AI
+anthropic>=2.8.0
+# Nghe (micro + Google Speech)
+SpeechRecognition>=3.10
+PyAudio>=0.2.14
+# Nói (giọng Việt neural của Edge, giọng offline của Windows)
+edge-tts>=6.1
+pygame>=2.5
+pyttsx3>=2.90
+# Hệ thống
+psutil>=5.9
+Pillow>=10.0
+python-dotenv>=1.0
